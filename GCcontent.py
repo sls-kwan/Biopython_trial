@@ -13,15 +13,15 @@ gene.readline()
 for line in gene:
 	line = line.lower()
 	for char in line:
-		if char == "G":
+		if char == "g":
 			g+=1
-		if char == "A":
+		if char == "a":
 			a+=1
-		if char == "C":
+		if char == "c":
 			c+=1
-		if char == "T":
+		if char == "t":
 			t+=1
-gc = (g+x+0.)/(a+t+c+g+0.)
+gc = (g+c+0.) / (a+t+c+g+0.)
 
 print "number of gc: " + str(gc)
 
