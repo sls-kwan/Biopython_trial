@@ -1,0 +1,359 @@
+LOCUS       NM_139351               2134 bp    mRNA    linear   PRI 25-MAY-2014
+DEFINITION  Homo sapiens bridging integrator 1 (BIN1), transcript variant 10,
+            mRNA.
+ACCESSION   NM_139351
+VERSION     NM_139351.2  GI:346716183
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2134)
+  AUTHORS   Lambert JC, Ibrahim-Verbaas CA, Harold D, Naj AC, Sims R,
+            Bellenguez C, DeStafano AL, Bis JC, Beecham GW, Granier-Boley B,
+            Russo G, Thorton-Wells TA, Jones N, Smith AV, Chouraki V, Thomas C,
+            Ikram MA, Zelenika D, Vardarajan BN, Kamatani Y, Lin CF, Gerrish A,
+            Schmidt H, Kunkle B, Dunstan ML, Ruiz A, Bihoreau MT, Choi SH,
+            Reitz C, Pasquier F, Cruchaga C, Craig D, Amin N, Berr C, Lopez OL,
+            De Jager PL, Deramecourt V, Johnston JA, Evans D, Lovestone S,
+            Letenneur L, Moron FJ, Rubinsztein DC, Eiriksdottir G, Sleegers K,
+            Goate AM, Fievet N, Huentelman MW, Gill M, Brown K, Kamboh MI,
+            Keller L, Barberger-Gateau P, McGuiness B, Larson EB, Green R,
+            Myers AJ, Dufouil C, Todd S, Wallon D, Love S, Rogaeva E, Gallacher
+            J, St George-Hyslop P, Clarimon J, Lleo A, Bayer A, Tsuang DW, Yu
+            L, Tsolaki M, Bossu P, Spalletta G, Proitsi P, Collinge J, Sorbi S,
+            Sanchez-Garcia F, Fox NC, Hardy J, Deniz Naranjo MC, Bosco P,
+            Clarke R, Brayne C, Galimberti D, Mancuso M, Matthews F, Moebus S,
+            Mecocci P, Del Zompo M, Maier W, Hampel H, Pilotto A, Bullido M,
+            Panza F, Caffarra P, Nacmias B, Gilbert JR, Mayhaus M, Lannefelt L,
+            Hakonarson H, Pichler S, Carrasquillo MM, Ingelsson M, Beekly D,
+            Alvarez V, Zou F, Valladares O, Younkin SG, Coto E, Hamilton-Nelson
+            KL, Gu W, Razquin C, Pastor P, Mateo I, Owen MJ, Faber KM, Jonsson
+            PV, Combarros O, O'Donovan MC, Cantwell LB, Soininen H, Blacker D,
+            Mead S, Mosley TH Jr, Bennett DA, Harris TB, Fratiglioni L, Holmes
+            C, de Bruijn RF, Passmore P, Montine TJ, Bettens K, Rotter JI,
+            Brice A, Morgan K, Foroud TM, Kukull WA, Hannequin D, Powell JF,
+            Nalls MA, Ritchie K, Lunetta KL, Kauwe JS, Boerwinkle E,
+            Riemenschneider M, Boada M, Hiltuenen M, Martin ER, Schmidt R,
+            Rujescu D, Wang LS, Dartigues JF, Mayeux R, Tzourio C, Hofman A,
+            Nothen MM, Graff C, Psaty BM, Jones L, Haines JL, Holmans PA,
+            Lathrop M, Pericak-Vance MA, Launer LJ, Farrer LA, van Duijn CM,
+            Van Broeckhoven C, Moskvina V, Seshadri S, Williams J, Schellenberg
+            GD and Amouyel P.
+  CONSRTM   European Alzheimer's Disease Initiative (EADI); Genetic and
+            Environmental Risk in Alzheimer's Disease; Alzheimer's Disease
+            Genetic Consortium; Cohorts for Heart and Aging Research in Genomic
+            Epidemiology
+  TITLE     Meta-analysis of 74,046 individuals identifies 11 new
+            susceptibility loci for Alzheimer's disease
+  JOURNAL   Nat. Genet. 45 (12), 1452-1458 (2013)
+   PUBMED   24162737
+REFERENCE   2  (bases 1 to 2134)
+  AUTHORS   Tan MS, Yu JT and Tan L.
+  TITLE     Bridging integrator 1 (BIN1): form, function, and Alzheimer's
+            disease
+  JOURNAL   Trends Mol Med 19 (10), 594-603 (2013)
+   PUBMED   23871436
+  REMARK    GeneRIF: REVIEW--BIN1: form, function, and Alzheimer's disease
+            Review article
+REFERENCE   3  (bases 1 to 2134)
+  AUTHORS   Liu G, Zhang S, Cai Z, Li Y, Cui L, Ma G, Jiang Y, Zhang L, Feng R,
+            Liao M, Chen Z, Zhao B and Li K.
+  TITLE     BIN1 gene rs744373 polymorphism contributes to Alzheimer's disease
+            in East Asian population
+  JOURNAL   Neurosci. Lett. 544, 47-51 (2013)
+   PUBMED   23570733
+  REMARK    GeneRIF: To our knowledge, this is the first study to show
+            significant association between rs744373 polymorphism and AD in
+            East Asian population.
+REFERENCE   4  (bases 1 to 2134)
+  AUTHORS   Bohm J, Vasli N, Maurer M, Cowling BS, Shelton GD, Kress W,
+            Toussaint A, Prokic I, Schara U, Anderson TJ, Weis J, Tiret L and
+            Laporte J.
+  TITLE     Altered splicing of the BIN1 muscle-specific exon in humans and
+            dogs with highly progressive centronuclear myopathy
+  JOURNAL   PLoS Genet. 9 (6), E1003430 (2013)
+   PUBMED   23754947
+  REMARK    GeneRIF: Our data demonstrate that the alteration of the
+            muscle-specific function of BIN1 is a common pathomechanism for
+            centronuclear myopathy, myotonic dystrophy, and IMGD.
+            Erratum:[PLoS Genet. 2013 Jun;9(6).
+            doi:10.1371/annotation/22ca13f1-1ce9-4bb5-9c9e-98670f7c4240.
+            Cowling, Belinda [corrected to Cowling, Belinda S]]
+REFERENCE   5  (bases 1 to 2134)
+  AUTHORS   Sun L, Tan MS, Hu N, Yu JT and Tan L.
+  TITLE     Exploring the value of plasma BIN1 as a potential biomarker for
+            alzheimer's disease
+  JOURNAL   J. Alzheimers Dis. 37 (2), 291-295 (2013)
+   PUBMED   23803295
+  REMARK    GeneRIF: The resukts of this study highlight the possible use of
+            plasma BIN1 as a biomarker for AD diagnosis.
+REFERENCE   6  (bases 1 to 2134)
+  AUTHORS   Ramjaun AR, Micheva KD, Bouchelet I and McPherson PS.
+  TITLE     Identification and characterization of a nerve terminal-enriched
+            amphiphysin isoform
+  JOURNAL   J. Biol. Chem. 272 (26), 16700-16706 (1997)
+   PUBMED   9195986
+REFERENCE   7  (bases 1 to 2134)
+  AUTHORS   Butler MH, David C, Ochoa GC, Freyberg Z, Daniell L, Grabs D,
+            Cremona O and De Camilli P.
+  TITLE     Amphiphysin II (SH3P9; BIN1), a member of the amphiphysin/Rvs
+            family, is concentrated in the cortical cytomatrix of axon initial
+            segments and nodes of ranvier in brain and around T tubules in
+            skeletal muscle
+  JOURNAL   J. Cell Biol. 137 (6), 1355-1367 (1997)
+   PUBMED   9182667
+REFERENCE   8  (bases 1 to 2134)
+  AUTHORS   Leprince C, Romero F, Cussac D, Vayssiere B, Berger R, Tavitian A
+            and Camonis JH.
+  TITLE     A new member of the amphiphysin family connecting endocytosis and
+            signal transduction pathways
+  JOURNAL   J. Biol. Chem. 272 (24), 15101-15105 (1997)
+   PUBMED   9182529
+REFERENCE   9  (bases 1 to 2134)
+  AUTHORS   Sakamuro D, Elliott KJ, Wechsler-Reya R and Prendergast GC.
+  TITLE     BIN1 is a novel MYC-interacting protein with features of a tumour
+            suppressor
+  JOURNAL   Nat. Genet. 14 (1), 69-77 (1996)
+   PUBMED   8782822
+  REMARK    GeneRIF: A nucleocytosolic myc-interacting isoform of Bin1 has
+            properties of a tumor suppressor.
+REFERENCE   10 (bases 1 to 2134)
+  AUTHORS   Negorev D, Riethman H, Wechsler-Reya R, Sakamuro D, Prendergast GC
+            and Simon D.
+  TITLE     The Bin1 gene localizes to human chromosome 2q14 by PCR analysis of
+            somatic cell hybrids and fluorescence in situ hybridization
+  JOURNAL   Genomics 33 (2), 329-331 (1996)
+   PUBMED   8725406
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from CF594020.1, AF068915.1,
+            AF070576.1 and BM711160.1.
+            On Sep 15, 2011 this sequence version replaced gi:21536416.
+            
+            Summary: This gene encodes several isoforms of a nucleocytoplasmic
+            adaptor protein, one of which was initially identified as a
+            MYC-interacting protein with features of a tumor suppressor.
+            Isoforms that are expressed in the central nervous system may be
+            involved in synaptic vesicle endocytosis and may interact with
+            dynamin, synaptojanin, endophilin, and clathrin. Isoforms that are
+            expressed in muscle and ubiquitously expressed isoforms localize to
+            the cytoplasm and nucleus and activate a caspase-independent
+            apoptotic process. Studies in mouse suggest that this gene plays an
+            important role in cardiac muscle development. Alternate splicing of
+            the gene results in ten transcript variants encoding different
+            isoforms. Aberrant splice variants expressed in tumor cell lines
+            have also been described. [provided by RefSeq, Sep 2011].
+            
+            Transcript Variant: This variant (10) lacks six in-frame exons in
+            the coding region, compared to variant 1. Isoform 10, also called
+            BIN1-10-13, is shorter than isoform 1 and is ubiquitously
+            expressed.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF068915.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           ERS025081, ERS025082 [ECO:0000350]
+            ##Evidence-Data-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-358               CF594020.1         33-390
+            359-1766            AF068915.1         35-1442
+            1767-2096           AF070576.1         1541-1870
+            2097-2134           BM711160.1         364-401
+FEATURES             Location/Qualifiers
+     source          1..2134
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2q14"
+     gene            1..2134
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /note="bridging integrator 1"
+                     /db_xref="GeneID:274"
+                     /db_xref="HGNC:HGNC:1052"
+                     /db_xref="HPRD:03150"
+                     /db_xref="MIM:601248"
+     exon            1..468
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    199..201
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /note="upstream in-frame stop codon"
+     misc_feature    228
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /note="alternate transcription initiation site"
+     CDS             385..1614
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /note="isoform 10 is encoded by transcript variant 10;
+                     amphiphysin II; box dependant MYC interacting protein 1;
+                     amphiphysin-like protein; box-dependent myc-interacting
+                     protein 1"
+                     /codon_start=1
+                     /product="myc box-dependent-interacting protein 1 isoform
+                     10"
+                     /protein_id="NP_647601.1"
+                     /db_xref="GI:21536417"
+                     /db_xref="CCDS:CCDS2143.1"
+                     /db_xref="GeneID:274"
+                     /db_xref="HGNC:HGNC:1052"
+                     /db_xref="HPRD:03150"
+                     /db_xref="MIM:601248"
+                     /translation="MAEMGSKGVTAGKIASNVQKKLTRAQEKVLQKLGKADETKDEQF
+                     EQCVQNFNKQLTEGTRLQKDLRTYLASVKAMHEASKKLNECLQEVYEPDWPGRDEANK
+                     IAENNDLLWMDYHQKLVDQALLTMDTYLGQFPDIKSRIAKRGRKLVDYDSARHHYESL
+                     QTAKKKDEAKIAKAEEELIKAQKVFEEMNVDLQEELPSLWNSRVGFYVNTFQSIAGLE
+                     ENFHKEMSKLNQNLNDVLVGLEKQHGSNTFTVKAQPSDNAPAKGNKSPSPPDGSPAAT
+                     PEIRVNHEPEPAGGATPGATLPKSPSQSSLPAVVVETFPATVNGTVEGGSGAGRLDLP
+                     PGFMFKVQAQHDYTATDTDELQLKAGDVVLVIPFQNPEEQDEGWLMGVKESDWNQHKE
+                     LEKCRGVFPENFTERVP"
+     misc_feature    475..1107
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /note="The Bin/Amphiphysin/Rvs (BAR) domain of Amphiphysin
+                     I and II; Region: BAR_Amphiphysin_I_II; cd07611"
+                     /db_xref="CDD:153295"
+     misc_feature    1393..1608
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /note="Src Homology 3 domain of Bridging integrator 1
+                     (Bin1), also called Amphiphysin-2; Region: SH3_Bin1;
+                     cd12139"
+                     /db_xref="CDD:213015"
+     misc_feature    order(532..534,541..546,556..558,565..567,574..579,
+                     586..588,616..621,625..630,637..642,646..651,658..660,
+                     682..684,973..975,982..987,991..993,1006..1011,1015..1020,
+                     1027..1032,1036..1041,1048..1053,1057..1062,1072..1074,
+                     1081..1083)
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /note="dimer interface [polypeptide binding]; other site"
+                     /db_xref="CDD:153295"
+     misc_feature    order(601..603,622..624,799..801,808..810,817..822,
+                     892..894)
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /note="putative membrane interaction site; other site"
+                     /db_xref="CDD:153295"
+     misc_feature    order(1426..1446,1501..1503,1507..1518,1585..1587,
+                     1591..1596)
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /note="peptide ligand binding site [polypeptide binding];
+                     other site"
+                     /db_xref="CDD:213015"
+     exon            469..549
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /inference="alignment:Splign:1.39.8"
+     exon            550..604
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /inference="alignment:Splign:1.39.8"
+     STS             553..690
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /standard_name="PMC156129P2"
+                     /db_xref="UniSTS:271364"
+     exon            605..699
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /inference="alignment:Splign:1.39.8"
+     exon            700..795
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /inference="alignment:Splign:1.39.8"
+     exon            796..903
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /inference="alignment:Splign:1.39.8"
+     exon            904..989
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /inference="alignment:Splign:1.39.8"
+     exon            990..1065
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1066..1148
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1149..1293
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1294..1404
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1405..1506
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1507..2117
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1579..1738
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /standard_name="D2S1563E"
+                     /db_xref="UniSTS:150648"
+     STS             1807..2051
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+                     /standard_name="STS-AA039724"
+                     /db_xref="UniSTS:77577"
+     polyA_site      2117
+                     /gene="BIN1"
+                     /gene_synonym="AMPH2; AMPHL; SH3P9"
+ORIGIN      
+        1 cgtcagggga gtcccgctcg ccgcagcccc agcgccgcgc gcgcccctcc ctcctcgcgg
+       61 acctggcggt gccggcgccc ggagtggccc tttaaaaggc agcttattgt ccggaggggg
+      121 cgggcggggg gcgccgaccg cggcctgagg cccggcccct cccctctccc tccctctgtc
+      181 cccgcgtcgc tcgctggcta gctcgctggc tcgctcgccc gtccggcgca cgctccgcct
+      241 ccgtcagttg gctccgctgt cgggtgcgcg gcgtggagcg gcagccggtc tggacgcgcg
+      301 gccggggctg ggggctggga gcgcggcgcg caagatctcc ccgcgcgaga gcggcccctg
+      361 ccaccgggcg aggcctgcgc cgcgatggca gagatgggca gtaaaggggt gacggcggga
+      421 aagatcgcca gcaacgtgca gaagaagctc acccgcgcgc aggagaaggt tctccagaag
+      481 ctggggaagg cagatgagac caaggatgag cagtttgagc agtgcgtcca gaatttcaac
+      541 aagcagctga cggagggcac ccggctgcag aaggatctcc ggacctacct ggcctccgtc
+      601 aaagccatgc acgaggcttc caagaagctg aatgagtgtc tgcaggaggt gtatgagccc
+      661 gattggcccg gcagggatga ggcaaacaag atcgcagaga acaacgacct gctgtggatg
+      721 gattaccacc agaagctggt ggaccaggcg ctgctgacca tggacacgta cctgggccag
+      781 ttccccgaca tcaagtcacg cattgccaag cgggggcgca agctggtgga ctacgacagt
+      841 gcccggcacc actacgagtc ccttcaaact gccaaaaaga aggatgaagc caaaattgcc
+      901 aaggccgagg aggagctcat caaagcccag aaggtgtttg aggagatgaa tgtggatctg
+      961 caggaggagc tgccgtccct gtggaacagc cgcgtaggtt tctacgtcaa cacgttccag
+     1021 agcatcgcgg gcctggagga aaacttccac aaggagatga gcaagctcaa ccagaacctc
+     1081 aatgatgtgc tggtcggcct ggagaagcaa cacgggagca acaccttcac ggtcaaggcc
+     1141 cagcccagtg acaacgcgcc tgcaaaaggg aacaagagcc cttcgcctcc agatggctcc
+     1201 cctgccgcca cccccgagat cagagtcaac cacgagccag agccggccgg cggggccacg
+     1261 cccggggcca ccctccccaa gtccccatct cagagctctc ttcctgctgt cgtggtggag
+     1321 accttcccag caactgtgaa tggcaccgtg gagggcggca gtggggccgg gcgcttggac
+     1381 ctgcccccag gtttcatgtt caaggtacag gcccagcacg actacacggc cactgacaca
+     1441 gacgagctgc agctcaaggc tggtgatgtg gtgctggtga tccccttcca gaaccctgaa
+     1501 gagcaggatg aaggctggct catgggcgtg aaggagagcg actggaacca gcacaaggag
+     1561 ctggagaagt gccgtggcgt cttccccgag aacttcactg agagggtccc atgacggcgg
+     1621 ggcccaggca gcctccgggc gtgtgaagaa cacctcctcc cgaaaaatgt gtggttcttt
+     1681 tttttgtttt gttttcgttt ttcatctttt gaagagcaaa gggaaatcaa gaggagaccc
+     1741 ccaggcagag gggcgttctc ccaaagatta ggtcgttttc caaagagccg cgtcccggca
+     1801 agtccggcgg aattcaccag tgttcctgaa gctgctgtgt cctctagttg agtttctggc
+     1861 gcccctgcct gtgcccgcat gtgtgcctgg ccgcagggcg gggctggggg ctgccgagcc
+     1921 accatgcttg cctgaagctt cggccgcgcc acccgggcaa gggtcctctt ttcctggcag
+     1981 ctgctgtggg tggggcccag acaccagcct agcctggctc tgccccgcag acggtctgtg
+     2041 tgctgtttga aaataaatct tagtgttcaa aacaaaatga aacaaaaaaa aaatgataaa
+     2101 aactctcaga aaacgtgaaa aaaaaaaaaa aaaa
+//
+
